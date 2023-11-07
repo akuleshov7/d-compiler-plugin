@@ -1,0 +1,9 @@
+{
+  "rootDir" : {
+    "argType" : "ArgType.String",
+    "kotlinType": "kotlin.String",
+    "description" : "Root directory where file with properties can be found",
+    "vararg": false,
+    "default": null
+  }
+}
